@@ -1,4 +1,4 @@
-# MatLearn_User
+# MatLearn
 MatLearn code packaged for a general user (requires Jupyter Notebook).
 
 The Jupyter Notebook (MatLearn_User.ipynb) is designed to walk a user who is inexperienced with machine learning through the basics of retrieving data, cleaning data, training a model, and generating predictions from scratch. This worksheet is supported by the code included in MatLearn_User_functions.py.
